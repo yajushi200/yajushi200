@@ -58,10 +58,11 @@
 <summary><b>🎓 Education and certifications</b></summary>
 <br/>
 
-- **Advanced Diploma, Software Engineering Technology (AI)**, Centennial College, Dec 2025 · GPA 4.3
+- **Advanced Diploma, Software Engineering Technology (AI)**, Centennial College, Dec 2025 · GPA 4.3 / 4.5
 - Microsoft Azure Data Fundamentals (DP-900)
 - Databricks Lakehouse Fundamentals
 - Google Cloud Essentials
+- Q-SYS Level 1 Training
 
 </details>
 
@@ -69,9 +70,9 @@
 <summary><b>💼 Experience</b></summary>
 <br/>
 
-- **Data Analyst Intern**, Scriptics Technologies: SQL data validation, ETL, Power BI
-- **Software Lab Assistant**, Centennial College: AWS EC2 deployments, CI/CD
-- **IT Technologist Intern**: AV systems, Lua scripting
+- **Data Analyst Intern**, Scriptics Technologies: ETL pipelines, Power BI dashboards, SQL and Excel
+- **Software Lab Assistant**, Centennial College: AWS app deployment, troubleshooting, student support
+- **IT Technologist Intern**: Power Apps, AV systems
 
 </details>
 
