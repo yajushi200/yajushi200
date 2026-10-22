@@ -25,10 +25,12 @@
 | Project | What it does | Stack |
 |---|---|---|
 | 🏎️ [F1 Data Pipeline](https://github.com/yajushi200/databricks-formula1-pipeline) | End-to-end F1 pipeline with medallion architecture (Bronze → Silver → Gold) | Databricks, PySpark, Delta Lake, ADLS, LakeFlow Jobs |
-| 🎓 Luminate AI | Capstone: multi-agent tutoring system | LangGraph, LangChain, ChromaDB, Gemini |
+| 🎓 [Luminate AI Tutor](https://github.com/yajushi200/luminate-ai) | Capstone: multi-agent tutor that teaches through hints, built into the college LMS | LangGraph, Gemini, ChromaDB, FastAPI, React |
+| 🐠 Marine Species Classifier | Deep learning comparison, ResNet50 transfer learning at **91.82% accuracy** | Python, CNNs, ResNet50, EfficientNet |
+| ☁️ [AWS Voice Sentiment Analysis](https://github.com/yajushi200/aws-voice-sentiment-analysis) | Serverless pipeline turning voice feedback into sentiment insights | Transcribe, Comprehend, Polly, Lambda, S3 |
+| 📧 [Spam Email Detector](https://github.com/yajushi200/spam-email-detector-nlp) | NLP spam classifier, **98% F1** | Python, scikit-learn, TF-IDF, Naive Bayes |
+| 🚇 [PTC: TTC Hackathon](https://github.com/yajushi200/ttc-hackathon-ptc) | 🏆 3rd Prize: lost item and operator safety app for the TTC | Hackathon, app design, chatbot |
 | 🤖 Digital Twin Agent | Agentic AI digital twin | Python, LLM agents |
-| 🐠 Marine Species Classifier | Image classifier, **91.82% accuracy** | Python, ResNet50 |
-| 💬 Amazon Reviews Sentiment | Sentiment analysis on product reviews | Python, NLP |
 
 ---
 
