@@ -14,9 +14,11 @@
 
 ### 🔨 Currently building
 
-**Finance Data Pipeline**: an end-to-end market data pipeline. Pulls stock data with `yfinance`, lands it in Azure Databricks, and refines it through a Bronze → Silver → Gold medallion architecture into analytics-ready Delta tables.
+**Fraud Detection Lakehouse**: a Databricks pipeline that processes 6.4M simulated mobile-money transactions (PaySim) through a Bronze → Silver → Gold medallion architecture into behavioural features for fraud detection. The source system's rule-based flag caught **0 of 1,404** frauds in the first five days of data. This pipeline computes the context that reveals them.
 
-![status](https://img.shields.io/badge/status-in%20progress-orange?style=flat-square) → [follow the build](https://github.com/yajushi200/databricks-finance-data-pipeline)
+`Databricks` · `PySpark` · `Delta Lake` · `Unity Catalog` · `Asset Bundles` · `GitHub Actions CI`
+
+![status](https://img.shields.io/badge/status-silver%20layer%20in%20progress-orange?style=flat-square) → [follow the build](https://github.com/yajushi200/databricks-finance-data-pipeline)
 
 ---
 
