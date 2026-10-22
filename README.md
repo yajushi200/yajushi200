@@ -1,0 +1,87 @@
+<h1 align="center">Hi, I am Yajushi 👋</h1>
+
+<p align="center">
+  <b>Aspiring Data Engineer</b> · Azure Databricks · PySpark · Delta Lake · Agentic AI<br/>
+  📍 Toronto, Canada
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yajushigarg1207/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://yajushi200.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+---
+
+### 🔨 Currently building
+
+**Finance Data Pipeline**: an end-to-end market data pipeline. Pulls stock data with `yfinance`, lands it in Azure Databricks, and refines it through a Bronze → Silver → Gold medallion architecture into analytics-ready Delta tables.
+
+![status](https://img.shields.io/badge/status-in%20progress-orange?style=flat-square) → [follow the build](https://github.com/yajushi200/databricks-finance-data-pipeline)
+
+---
+
+### 📌 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🏎️ [F1 Data Pipeline](https://github.com/yajushi200/databricks-formula1-pipeline) | End-to-end F1 pipeline with medallion architecture (Bronze → Silver → Gold) | Databricks, PySpark, Delta Lake, ADLS, LakeFlow Jobs |
+| 🎓 Luminate AI | Capstone: multi-agent tutoring system | LangGraph, LangChain, ChromaDB, Gemini |
+| 🤖 Digital Twin Agent | Agentic AI digital twin | Python, LLM agents |
+| 🐠 Marine Species Classifier | Image classifier, **91.82% accuracy** | Python, ResNet50 |
+| 💬 Amazon Reviews Sentiment | Sentiment analysis on product reviews | Python, NLP |
+
+---
+
+<details>
+<summary><b>🧰 Tech stack</b> (click to expand)</summary>
+<br/>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,azure,aws,gcp,git,github,linux" alt="tech icons"/>
+</p>
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+
+</details>
+
+<details>
+<summary><b>🎓 Education and certifications</b></summary>
+<br/>
+
+- **Advanced Diploma, Software Engineering Technology (AI)**, Centennial College, Dec 2025 · GPA 4.3
+- Microsoft Azure Data Fundamentals (DP-900)
+- Databricks Lakehouse Fundamentals
+- Google Cloud Essentials
+
+</details>
+
+<details>
+<summary><b>💼 Experience</b></summary>
+<br/>
+
+- **Data Analyst Intern**, Scriptics Technologies: SQL data validation, ETL, Power BI
+- **Software Lab Assistant**, Centennial College: AWS EC2 deployments, CI/CD
+- **IT Technologist Intern**: AV systems, Lua scripting
+
+</details>
+
+<details>
+<summary><b>📊 GitHub stats</b></summary>
+<br/>
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yajushi200&show_icons=true&hide_border=true&theme=transparent" alt="stats"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=yajushi200&hide_border=true&theme=transparent" alt="streak"/>
+</p>
+
+</details>
+
+---
+
+<p align="center"><i>Open to data engineering roles in Toronto. Let us connect!</i></p>
